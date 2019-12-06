@@ -66,10 +66,13 @@ Mark down คือ
 
 ---
 
-@snap[west span-50]
+@snap[north span-50]
 
 #### รูปแบบอักษรประกอบไปด้วย
+@snapend
 
+@snap[west span-50]
+#### Syntax
 ```
         หัวเรื่องแรก  หัวเรื่องที่สอง
         --------  -----------
@@ -95,6 +98,7 @@ _สวัสดี_
 @snapend
 
 @snap[west span-50]
+#### Syntax
 
 1. สวัสดี
 2. ฉัน
@@ -115,19 +119,21 @@ _สวัสดี_
 @snapend
 
 @snap[west span-50]
-![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
+#### Syntax
+
+        - สวัสดี
+        - สวัสดี
+        - สวัสดี
+
+        * สวัสดี
+        * สวัสดี
+        * สวัสดี
 @snapend
 
+
 @snap[east span-50]
-
-- สวัสดี
-- สวัสดี
-- สวัสดี
-
-* สวัสดี
-* สวัสดี
-* สวัสดี
-  @snapend
+![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
+@snapend
 
 ---
 
