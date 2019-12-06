@@ -73,6 +73,7 @@ Mark down คือ
 
 @snap[west span-50]
 #### Syntax
+
 ```
         หัวเรื่องแรก  หัวเรื่องที่สอง
         --------  -----------
@@ -139,7 +140,7 @@ _สวัสดี_
 
 @snap[north span-50]
 
-หรือ list ซ้อน list (Nested List)
+list ซ้อน list (Nested List)
 @snapend
 
 
@@ -159,16 +160,24 @@ _สวัสดี_
 
 ---
 
-@snap[]
-## การใส่ link ใน Markdown
+@snap[north span-50]
 
-โค้ต
+### การใส่ link ใน Markdown
+@snapend
 
+@snap[west span-50]
+#### โค้ต
+
+```
     [](https://sv1.picz.in.th/images/2019/12/05/iZyv78.jpg)
+```
+@spaned
 
+@snap[east span-50]
 เเสดงผล
 
 ## [Links](http://www.google.com)
+@snapend
 
 ---
 
