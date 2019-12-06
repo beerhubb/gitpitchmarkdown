@@ -153,8 +153,10 @@ _สวัสดี_
 
 ![](https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
 @snapend
+
 ---
 
+@snap[]
 ## การใส่ link ใน Markdown
 
 โค้ต
@@ -165,6 +167,8 @@ _สวัสดี_
 
 ## [Links](http://www.google.com)
 
+---
+
 ## ใส่รูปภาพใน Markdown
 
 โค้ต
@@ -174,6 +178,8 @@ _สวัสดี_
 เเสดงผล
 
 ## ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
+---
 
 @snap[north span-120]
 
