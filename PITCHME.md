@@ -2,7 +2,9 @@
 ---
 ## Markdown คือ 
     
- Mark down คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
+ Mark down คือ 
+
+ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
     และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆ
     ได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customize ให้เป็นของตัวเอง
     เช่น github ก็อาจจะเพิ่มพวก feature 
@@ -10,10 +12,10 @@
 
 ---
 
-## HTML vs Markdown
+### HTML vs Markdown
 
+ @snap[west span-50]
 
-![](https://miro.medium.com/max/1150/1*L-PYnMRbnKpIFYVdgbQUJQ.png)
           <h1> Hello </h1>                     # Hello
             <h2> Hi </h2>                        ## Hi
             <ul>                                
@@ -21,6 +23,11 @@
             <li>Banana</li>                     * Banana
             <li>Orange</li>                     * Orange
             </ul>                               
+            @snapend
+
+            
+![](https://miro.medium.com/max/1150/1*L-PYnMRbnKpIFYVdgbQUJQ.png)
+
 ---
 
 ## เริ่มเขียนMarkdown
