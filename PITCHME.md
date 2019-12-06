@@ -41,7 +41,9 @@ Mark down คือ
 
 ---
 
+@snap[north]
 #### การเขียนหัวเรื่อง
+@snapend
 
 @snap[west span-50]
 
@@ -53,7 +55,7 @@ Mark down คือ
         ###### หัวเรื่อง 6
 @snapend
 
-@snap[west span-50]
+@snap[east span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFdHl.jpg)
 @snapend
 
