@@ -69,9 +69,11 @@ Mark down คือ
 @snap[north span-50]
 
 #### รูปแบบอักษรประกอบไปด้วย
+
 @snapend
 
 @snap[west span-50]
+
 #### Syntax
 
 ```
@@ -99,6 +101,7 @@ _สวัสดี_
 @snapend
 
 @snap[west span-50]
+
 #### Syntax
 
 1. สวัสดี
@@ -108,7 +111,6 @@ _สวัสดี_
    @snapend
 
 @snap[east span-50]
-
 
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
@@ -120,6 +122,7 @@ _สวัสดี_
 @snapend
 
 @snap[west- span-50]
+
 #### Syntax
 
         - สวัสดี
@@ -129,8 +132,8 @@ _สวัสดี_
         * สวัสดี
         * สวัสดี
         * สวัสดี
-@snapend
 
+@snapend
 
 @snap[south-east span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
@@ -143,19 +146,19 @@ _สวัสดี_
 list ซ้อน list (Nested List)
 @snapend
 
-
 @snap[west span-50]
 
 1. สวัสดี
-   - ฉันชื่อ 
-   - อะไร 
-1. ไม่รู้ 
+   - ฉันชื่อ
+   - อะไร
+1. ไม่รู้
 1. สินะ
-@snapend
+   @snapend
 
 @snap[east span-50]
 
         ![] (https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
+
 @snapend
 
 ---
@@ -163,12 +166,15 @@ list ซ้อน list (Nested List)
 @snap[north span-50]
 
 #### การใส่ link ใน Markdown
+
 @snapend
 
 @snap[west span-50]
+
 #### โค้ต
 
     [](https://sv1.picz.in.th/images/2019/12/05/iZyv78.jpg)
+
 @spaned
 
 @snap[south-east span-50]
