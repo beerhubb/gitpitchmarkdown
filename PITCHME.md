@@ -20,6 +20,7 @@ Mark down คือ
 @snapend
 
 @snap[west span-50]
+syntax
 
     <h1> Hello </h1>                     # Hello
     <h2> Hi </h2>                        ## Hi
