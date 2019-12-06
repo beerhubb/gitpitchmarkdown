@@ -181,7 +181,7 @@ list ซ้อน list (Nested List)
 
 @snapend
 
-@snap[west span-40 text-center]
+@snap[west span-20 text-center]
 
 #### Syntax
 ```
