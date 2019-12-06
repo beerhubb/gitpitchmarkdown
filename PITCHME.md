@@ -189,8 +189,6 @@ list ซ้อน list (Nested List)
         | ซ็าย       |  กึ่งกลาง   | ขวา       |
 @snapend
 
-@snap[east span-50]
-
 @snap[west span-50]
 
 | หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
