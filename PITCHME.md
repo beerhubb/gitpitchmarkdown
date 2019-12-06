@@ -102,7 +102,7 @@ _สวัสดี_
 4. อะไร
    @snapend
 
-@snap[south-east span-50]
+@snap[east span-50]
 
 
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
@@ -113,7 +113,11 @@ _สวัสดี_
 @snap[north span-50]
 ลิสต์แบบไม่เรียงลำดับ (Unordered List)
 @snapend
+
+@snap[west span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
+@snapend
+
 @snap[east span-50]
 
 - สวัสดี
