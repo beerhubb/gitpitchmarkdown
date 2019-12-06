@@ -168,9 +168,7 @@ list ซ้อน list (Nested List)
 @snap[west span-50]
 #### โค้ต
 
-```
     [](https://sv1.picz.in.th/images/2019/12/05/iZyv78.jpg)
-```
 @spaned
 
 @snap[south-east span-50]
