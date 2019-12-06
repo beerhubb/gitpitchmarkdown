@@ -14,25 +14,23 @@ Mark down คือ
 
 ---
 
-@snap[north]
+@snap[north ]
 
-### HTML vs Markdown
-
+#### HTML vs Markdown
 @snapend
 
 @snap[west span-50]
 
-          <h1> Hello </h1>                     # Hello
-            <h2> Hi </h2>                        ## Hi
-            <ul>
-            <li>Apple</li>                      * Apple
-            <li>Banana</li>                     * Banana
-            <li>Orange</li>                     * Orange
-            </ul>
-            @snapend
+    <h1> Hello </h1>                     # Hello
+    <h2> Hi </h2>                        ## Hi
+    <ul>
+    <li>Apple</li>                      * Apple
+    <li>Banana</li>                     * Banana
+    <li>Orange</li>                     * Orange
+    </ul>
+@snapend
 
-
-            @snap[east span-50]
+@snap[east span-50]
 
 ![](https://miro.medium.com/max/1150/1*L-PYnMRbnKpIFYVdgbQUJQ.png)
 @snapend
