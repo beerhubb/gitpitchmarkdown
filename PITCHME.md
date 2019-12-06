@@ -174,9 +174,10 @@ list ซ้อน list (Nested List)
 @spaned
 
 @snap[east span-50]
-เเสดงผล
 
-## [Links](http://www.google.com)
+#### เเสดงผล
+
+[Links](http://www.google.com)
 @snapend
 
 ---
