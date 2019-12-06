@@ -146,12 +146,15 @@ _สวัสดี_
 @snap[west span-50]
 
 1. สวัสดี
-   - ฉันชื่อ - อะไร 1. ไม่รู้ 2. สินะ
+   - ฉันชื่อ 
+   - อะไร 
+1. ไม่รู้ 
+1. สินะ
 @snapend
 
 @snap[east span-50]
 
-![](https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
+        ![] (https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
 @snapend
 
 ---
