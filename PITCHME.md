@@ -163,29 +163,6 @@ list ซ้อน list (Nested List)
 
 ---
 
-@snap[north span-50]
-
-#### การใส่ link ใน Markdown
-
-@snapend
-
-@snap[west span-50]
-
-#### โค้ต
-
-    [](https://sv1.picz.in.th/images/2019/12/05/iZyv78.jpg)
-
-@spaned
-
-@snap[south-east span-50]
-
-#### เเสดงผล
-
-[Links](http://www.google.com)
-@snapend
-
----
-
 ## ใส่รูปภาพใน Markdown
 
 โค้ต
