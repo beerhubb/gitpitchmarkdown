@@ -55,7 +55,7 @@ Mark down คือ
         ###### หัวเรื่อง 6
 @snapend
 
-@snap[east-west span-50]
+@snap[south-east span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFdHl.jpg)
 @snapend
 
