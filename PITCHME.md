@@ -173,7 +173,7 @@ list ซ้อน list (Nested List)
 ```
 @spaned
 
-@snap[north-east span-50]
+@snap[south-east span-50]
 
 #### เเสดงผล
 
