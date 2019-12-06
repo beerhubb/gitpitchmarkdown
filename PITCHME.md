@@ -26,7 +26,9 @@
             @snapend
 
             
+            @snap[east span-50]
 ![](https://miro.medium.com/max/1150/1*L-PYnMRbnKpIFYVdgbQUJQ.png)
+ @snapend
 
 ---
 
