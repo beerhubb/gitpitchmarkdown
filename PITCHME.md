@@ -162,7 +162,7 @@ list ซ้อน list (Nested List)
 
 @snap[north span-50]
 
-### การใส่ link ใน Markdown
+#### การใส่ link ใน Markdown
 @snapend
 
 @snap[west span-50]
@@ -173,7 +173,7 @@ list ซ้อน list (Nested List)
 ```
 @spaned
 
-@snap[east span-50]
+@snap[north-east span-50]
 
 #### เเสดงผล
 
