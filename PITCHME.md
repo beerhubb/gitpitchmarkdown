@@ -90,7 +90,7 @@ _สวัสดี_
 
 ---
 
-@snap[midpoint span-50]
+@snap[north span-50]
 ลิสต์แบบเรียงลำดับ (Ordered List)
 @snapend
 
