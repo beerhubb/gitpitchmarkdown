@@ -102,7 +102,7 @@ _สวัสดี_
 4. อะไร
    @snapend
 
-@snap[east span-50]
+@snap[south-east span-50]
 
 
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
