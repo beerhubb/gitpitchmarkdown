@@ -181,8 +181,9 @@ list ซ้อน list (Nested List)
 
 @snapend
 
-@snap[west span-70]
+@snap[west span-70 text-center]
 
+#### Syntax
 ```
     | หัวเรื่องแรก | หัวเรื่องที่สอง | หัวเรื่องสาม |
     | :-------  | :-------: | --------: |
