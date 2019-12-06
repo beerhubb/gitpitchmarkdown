@@ -90,6 +90,10 @@ _สวัสดี_
 
 ---
 
+@snap[midpoint span-50]
+ลิสต์แบบเรียงลำดับ (Ordered List)
+@snapend
+
 @snap[west span-50]
 
 1. สวัสดี
@@ -100,7 +104,7 @@ _สวัสดี_
 
 @snap[east span-50]
 
-ลิสต์แบบเรียงลำดับ (Ordered List)
+
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
