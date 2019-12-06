@@ -17,6 +17,7 @@ Mark down คือ
 @snap[north ]
 
 #### HTML vs Markdown
+
 @snapend
 
 @snap[west span-50]
@@ -28,6 +29,7 @@ Mark down คือ
     <li>Banana</li>                     * Banana
     <li>Orange</li>                     * Orange
     </ul>
+
 @snapend
 
 @snap[east span-50]
@@ -42,7 +44,9 @@ Mark down คือ
 ---
 
 @snap[north]
+
 #### การเขียนหัวเรื่อง
+
 @snapend
 
 @snap[west span-50]
@@ -53,6 +57,7 @@ Mark down คือ
         #### หัวเรื่อง 4
         ##### หัวเรื่อง 5
         ###### หัวเรื่อง 6
+
 @snapend
 
 @snap[south-east span-50]
@@ -63,16 +68,17 @@ Mark down คือ
 
 @snap[west span-50]
 
-รูปแบบอักษรประกอบไปด้วย
+#### รูปแบบอักษรประกอบไปด้วย
 
 ```
-        หัวเรื่องแรก  หัวเรื่องที่สอง 
-        --------  -----------  
-         ตัวเอียง     _ตัวเอียง_     
-         ตัวหน้า     **ตัวหน้า**    
+        หัวเรื่องแรก  หัวเรื่องที่สอง
+        --------  -----------
+         ตัวเอียง     _ตัวเอียง_
+         ตัวหน้า     **ตัวหน้า**
          ขีดฆ่า      ~~ขีดฆ่า~~
 ```
-@snapend      
+
+@snapend
 
 @snap[east span-50]
 
@@ -84,18 +90,19 @@ _สวัสดี_
 
 ---
 
-@snap[north span-50]
-ลิสต์แบบเรียงลำดับ (Ordered List)
-![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
-@snapend
-
-@snap[east span-50]
+@snap[west span-50]
 
 1. สวัสดี
 2. ฉัน
 3. ชื่อ
 4. อะไร
    @snapend
+
+@snap[east span-50]
+
+ลิสต์แบบเรียงลำดับ (Ordered List)
+![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
+@snapend
 
 ---
 
