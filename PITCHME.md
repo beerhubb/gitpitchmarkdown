@@ -118,7 +118,7 @@ _สวัสดี_
 ลิสต์แบบไม่เรียงลำดับ (Unordered List)
 @snapend
 
-@snap[west span-50]
+@snap[west- span-50]
 #### Syntax
 
         - สวัสดี
@@ -131,22 +131,28 @@ _สวัสดี_
 @snapend
 
 
-@snap[east span-50]
+@snap[south-east span-50]
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
 @snapend
 
 ---
 
 @snap[north span-50]
+
 หรือ list ซ้อน list (Nested List)
 @snapend
-![](https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
-@snap[east span-50]
+
+
+@snap[west span-50]
 
 1. สวัสดี
    - ฉันชื่อ - อะไร 1. ไม่รู้ 2. สินะ
-     @snapend
+@snapend
 
+@snap[east span-50]
+
+![](https://sv1.picz.in.th/images/2019/12/05/iZyXqq.jpg)
+@snapend
 ---
 
 ## การใส่ link ใน Markdown
