@@ -14,7 +14,7 @@ Mark down คือ
 
 ---
 
-@snap[north span-50]
+@snap[north]
 
 ### HTML vs Markdown
 
