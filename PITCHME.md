@@ -20,7 +20,6 @@ Mark down คือ
 @snapend
 
 @snap[west span-50]
-syntax
 
     <h1> Hello </h1>                     # Hello
     <h2> Hi </h2>                        ## Hi
@@ -42,7 +41,7 @@ syntax
 
 ---
 
-## การเขียนหัวเรื่อง
+#### การเขียนหัวเรื่อง
 
 ![](https://sv1.picz.in.th/images/2019/12/05/iZFdHl.jpg)
 
